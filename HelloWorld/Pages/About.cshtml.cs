@@ -12,7 +12,7 @@ namespace HelloWorld.Pages
 
         public void OnGet()
         {
-            Message = "What's my message?????";
+            Message = "This is really cool!";
         }
     }
 }
